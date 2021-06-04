@@ -1,429 +1,227 @@
-.19_23 { 
-	overflow:hidden;
-}.e19_23 { 
-	background-color:rgba(255, 255, 255, 1);
-	width:360px;
-	height:4349px;
-	position:absolute;
-}.e19_24 { 
-	background-image:linear-gradient(0deg, rgba(161.0000056028366, 140.00000685453415, 209.00000274181366, 1) 0%,rgba(251.00000023841858, 194.00000363588333, 235.0000011920929, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:142px;
-	height:68px;
-	position:absolute;
-	left:6px;
-	top:15px;
-	font-family:Roboto;
-	text-align:center;
-	font-size:49px;
-	letter-spacing:0;
-}.e7_30 { 
-	background-image:linear-gradient(0deg, rgba(94.0000019967556, 231.00000143051147, 223.00000190734863, 1) 0%,rgba(180.00000447034836, 144.00000661611557, 202.00000315904617, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:311px;
-	height:44px;
-	position:absolute;
-	left:13px;
-	top:135px;
-	font-family:Roboto;
-	text-align:center;
-	font-size:29px;
-	letter-spacing:0;
-}.e8_4 { 
-	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
-	width:386px;
-	height:126px;
-	position:absolute;
-	left:49px;
-	top:642px;
-	background-image:url(images/rectangle.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e19_80 { 
-	color:rgba(0, 0, 0, 1);
-	width:347px;
-	height:32px;
-	position:absolute;
-	left:13px;
-	top:607px;
-	font-family:Roboto;
-	text-align:center;
-	font-size:29px;
-	letter-spacing:0;
-}.e8_130 { 
-	background-image:linear-gradient(0deg, rgba(246.0000005364418, 211.00000262260437, 101.00000157952309, 1) 0%,rgba(253.0000001192093, 160.00000566244125, 133.00000727176666, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:311px;
-	height:80px;
-	position:absolute;
-	left:13px;
-	top:824px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:73px;
-	letter-spacing:0;
-}.e19_19 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:34px;
-	top:924px;
-	background-image:url(images/_component_lottie_https___assets3_lottiefiles_com_packages_lf20_qtcpvvki_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e19_81 { 
-	color:rgba(0, 0, 0, 1);
-	width:290px;
-	height:85px;
-	position:absolute;
-	left:29px;
-	top:1151px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e19_83 { 
-	color:rgba(0, 0, 0, 1);
-	width:234px;
-	height:180px;
-	position:absolute;
-	left:57px;
-	top:1208px;
-	font-family:Sanchez;
-	text-align:center;
-	font-size:28px;
-	letter-spacing:0;
-}.e23_6 { 
-	color:rgba(0, 0, 0, 1);
-	width:234px;
-	height:180px;
-	position:absolute;
-	left:57px;
-	top:1678px;
-	font-family:Sanchez;
-	text-align:center;
-	font-size:28px;
-	letter-spacing:0;
-}.e23_9 { 
-	color:rgba(0, 0, 0, 1);
-	width:234px;
-	height:144px;
-	position:absolute;
-	left:58px;
-	top:2140px;
-	font-family:Sanchez;
-	text-align:center;
-	font-size:28px;
-	letter-spacing:0;
-}.e23_11 { 
-	color:rgba(0, 0, 0, 1);
-	width:234px;
-	height:108px;
-	position:absolute;
-	left:63px;
-	top:2660px;
-	font-family:Sanchez;
-	text-align:center;
-	font-size:28px;
-	letter-spacing:0;
-}.e23_14 { 
-	color:rgba(0, 0, 0, 1);
-	width:320px;
-	height:180px;
-	position:absolute;
-	left:20px;
-	top:3161px;
-	font-family:Sanchez;
-	text-align:center;
-	font-size:28px;
-	letter-spacing:0;
-}.e23_5 { 
-	color:rgba(0, 0, 0, 1);
-	width:152px;
-	height:47px;
-	position:absolute;
-	left:98px;
-	top:1629px;
-	font-family:Roboto;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e23_7 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:40px;
-	top:1875px;
-	background-image:url(images/_component_lottie_https___assets1_lottiefiles_com_packages_lf20_uaity3_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_3 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:34px;
-	top:1372px;
-	background-image:url(images/_component_lottie_https___assets2_lottiefiles_com_packages_lf20_5e7wgehs_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_8 { 
-	color:rgba(0, 0, 0, 1);
-	width:150px;
-	height:47px;
-	position:absolute;
-	left:100px;
-	top:2091px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e23_12 { 
-	color:rgba(0, 0, 0, 1);
-	width:325px;
-	height:47px;
-	position:absolute;
-	left:18px;
-	top:2611px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e23_15 { 
-	color:rgba(0, 0, 0, 1);
-	width:314px;
-	height:94px;
-	position:absolute;
-	left:23px;
-	top:3095px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e23_10 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:40px;
-	top:2346px;
-	background-image:url(images/_component_lottie_https___assets6_lottiefiles_com_private_files_lf30_srhxnqar_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_13 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:40px;
-	top:2830px;
-	background-image:url(images/_component_lottie_https___assets10_lottiefiles_com_packages_lf20_ffjg0hfd_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_32 { 
-	width:295.6582946777344px;
-	height:78.59674072265625px;
-	position:absolute;
-	left:31.67083740234375px;
-	top:3509.70166015625px;
-}.e23_16 { 
-	transform: rotate(-0.5049253208905935deg);
-	background-image:linear-gradient(0deg, rgba(79.00000289082527, 172.00000494718552, 254.00000005960464, 1) 0%,rgba(0, 242.00000077486038, 254.00000005960464, 1) 100%) ;
-	width:295px;
-	height:76px;
-	position:absolute;
-	left:0px;
-	top:2.5996861457824707px;
-	border-top-left-radius:13px;
-	border-top-right-radius:13px;
-	border-bottom-left-radius:13px;
-	border-bottom-right-radius:13px;
-}.e23_17 { 
-	background-image:linear-gradient(0deg, rgba(207.00000286102295, 217.0000022649765, 223.00000190734863, 1) 0%,rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:232px;
-	height:47px;
-	position:absolute;
-	left:32.32916259765625px;
-	top:15.298417091369629px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e34_2 { 
-	width:360px;
-	height:332px;
-	position:absolute;
-	left:0px;
-	top:4017px;
-}.e23_19 { 
-	background-color:rgba(51.56060367822647, 64.03156489133835, 72.93938890099525, 1);
-	width:360px;
-	height:332px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.e23_20 { 
-	color:rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1);
-	width:100px;
-	height:27px;
-	position:absolute;
-	left:30px;
-	top:30px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_21 { 
-	color:rgba(255, 255, 255, 1);
-	width:91px;
-	height:27px;
-	position:absolute;
-	left:232px;
-	top:30px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_22 { 
-	color:rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1);
-	width:123px;
-	height:54px;
-	position:absolute;
-	left:19px;
-	top:156px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_23 { 
-	color:rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1);
-	width:86px;
-	height:27px;
-	position:absolute;
-	left:37px;
-	top:114px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_24 { 
-	color:rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1);
-	width:124px;
-	height:27px;
-	position:absolute;
-	left:18px;
-	top:72px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_26 { 
-	width:53px;
-	height:53px;
-	position:absolute;
-	left:251px;
-	top:61px;
-	background-image:url(images/twitter.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_29 { 
-	width:53px;
-	height:53px;
-	position:absolute;
-	left:251px;
-	top:175px;
-	background-image:url(images/facebook.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_27 { 
-	width:53px;
-	height:53px;
-	position:absolute;
-	left:251px;
-	top:116px;
-	background-image:url(images/pinterest.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_30 { 
-	color:rgba(255, 243.31249594688416, 243.31249594688416, 1);
-	width:253px;
-	height:28px;
-	position:absolute;
-	left:39px;
-	top:289px;
-	font-family:Kelly Slab;
-	text-align:center;
-	font-size:23px;
-	letter-spacing:0;
-}.e23_31 { 
-	width:280px;
-	height:240px;
-	position:absolute;
-	left:40px;
-	top:3661px;
-	background-image:url(images/_component_lottie_https___assets4_lottiefiles_com_packages_lf20_nk7rih3w_json_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e23_33 { 
-	width:133.65829467773438px;
-	height:57px;
-	position:absolute;
-	left:209px;
-	top:11px;
-}.e23_34 { 
-	transform: rotate(-0.809979279364074deg);
-	background-image:linear-gradient(0deg, rgba(79.00000289082527, 172.00000494718552, 254.00000005960464, 1) 0%,rgba(0, 242.00000077486038, 254.00000005960464, 1) 100%) ;
-	width:133.3688507080078px;
-	height:55.115482330322266px;
-	position:absolute;
-	left:0px;
-	top:1.8853495121002197px;
-	border-top-left-radius:13px;
-	border-top-right-radius:13px;
-	border-bottom-left-radius:13px;
-	border-bottom-right-radius:13px;
-}.e23_35 { 
-	background-image:linear-gradient(0deg, rgba(207.00000286102295, 217.0000022649765, 223.00000190734863, 1) 0%,rgba(226.0000017285347, 235.0000011920929, 240.00000089406967, 1) 100%) ;
-	-webkit-background-clip:text;
-	-webkit-text-fill-color:transparent;
-	-moz-background-clip:text;
-	-moz-text-fill-color:transparent;
-	-ms-background-clip:text;
-	-ms-text-fill-color:transparent;
-	width:104.88027954101562px;
-	height:34.08538055419922px;
-	position:absolute;
-	left:14.593017578125px;
-	top:4.0588765144348145px;
-	font-family:Rubik;
-	text-align:center;
-	font-size:40px;
-	letter-spacing:0;
-}.e34_3 { 
-	width:360px;
-	height:341px;
-	position:absolute;
-	left:0px;
-	top:174px;
-	background-image:url(images/group_4_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
+body {
+	margin: 0;
+	background: #fff !important; 
+}
+
+
+.e19_24 {
+	background-image: linear-gradient(0deg, rgba(161.0000056028366, 140.00000685453415, 209.00000274181366, 1) 0%, rgba(251.00000023841858, 194.00000363588333, 235.0000011920929, 1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+	-ms-background-clip: text;
+	-ms-text-fill-color: transparent;
+	width: 142px;
+	height: 68px;
+	font-family: Roboto;
+	text-align: center;
+	font-size: 49px;
+	letter-spacing: 0;
+}
+
+.e7_30 {
+	background-image: linear-gradient(0deg, rgba(94.0000019967556, 231.00000143051147, 223.00000190734863, 1) 0%, rgba(180.00000447034836, 144.00000661611557, 202.00000315904617, 1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-background-clip: text;
+	-moz-text-fill-color: transparent;
+	-ms-background-clip: text;
+	-ms-text-fill-color: transparent;
+	width: 311px;
+	height: 44px;
+	/* */
+	/* left: 13px; */
+	/* top: 135px; */
+	font-family: Roboto;
+	text-align: center;
+	font-size: 29px;
+	letter-spacing: 0;
+}
+
+.e8_4 {
+	/* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+	width: 386px;
+	height: 146px;
+	background-image: url(images/rectangle.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e19_80 {
+	color: rgba(0, 0, 0, 1);
+	width: 347px;
+	height: 32px;
+	font-family: Roboto;
+	text-align: center;
+	font-size: 29px;
+	letter-spacing: 0;
+}
+
+.e8_130 {
+	background-image: linear-gradient(0deg, rgba(246.0000005364418, 211.00000262260437, 101.00000157952309, 1) 0%, rgba(253.0000001192093, 160.00000566244125, 133.00000727176666, 1) 100%);
+	width: 311px;
+	height: 80px;
+	font-family: Rubik;
+	text-align: center;
+	font-size: 73px;
+	letter-spacing: 0;
+}
+
+.e19_19 {
+	width: 280px;
+	height: 240px;
+	background-image: url(images/_component_lottie_https___assets3_lottiefiles_com_packages_lf20_qtcpvvki_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+
+
+.e23_7 {
+	width: 280px;
+	height: 240px;
+
+	background-image: url(images/_component_lottie_https___assets1_lottiefiles_com_packages_lf20_uaity3_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e23_3 {
+	width: 280px;
+	height: 240px;
+	background-image: url(images/_component_lottie_https___assets2_lottiefiles_com_packages_lf20_5e7wgehs_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+.e23_10 {
+	width: 280px;
+	height: 240px;
+	background-image: url(images/_component_lottie_https___assets6_lottiefiles_com_private_files_lf30_srhxnqar_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e23_13 {
+	width: 280px;
+	height: 240px;
+	background-image: url(images/_component_lottie_https___assets10_lottiefiles_com_packages_lf20_ffjg0hfd_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.e23_16 {
+	position: relative;
+	background-image: linear-gradient(0deg, rgba(79.00000289082527, 172.00000494718552, 254.00000005960464, 1) 0%, rgba(0, 242.00000077486038, 254.00000005960464, 1) 100%);
+	/* */
+	border-top-left-radius: 13px;
+	border-top-right-radius: 13px;
+	border-bottom-left-radius: 13px;
+	border-bottom-right-radius: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+.e23_26 {
+	width: 53px;
+	height: 53px;
+
+	background-image: url(images/twitter.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e23_29 {
+	width: 53px;
+	height: 53px;
+	background-image: url(images/facebook.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e23_27 {
+	width: 53px;
+	height: 53px;
+	background-image: url(images/pinterest.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.vin{
+	margin-top: 100px;
+	position: relative; 
+}
+
+.e23_31 {
+	width: 280px;
+	height: 240px;
+	background-image: url(images/_component_lottie_https___assets4_lottiefiles_com_packages_lf20_nk7rih3w_json_.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.e34_3 {
+	margin: 0 auto;
+	width: 80%;
+	height: auto;
+	min-height: 300;
+	min-width: 319; 
+	background-image: url(images/group_4_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.h{
+	position: relative;
+	display: flex;
+	width: 100%;
+	height: 170px; 
+	padding: 7px; 
+}
+
+.e8_4{
+	position: absolute;
+	right: -15%; 
+
+} 
+.container{
+	display: grid;
+	grid-template-columns: 100%;
+	grid-gap: 30px;
+    height: 179rem;  
+    
+}
+
+.e23_32{
+	width: 100%;
+}
+.e23_19{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly; 
+}
+
+@media only screen and (min-width: 690px) { 
+.container{
+	display: grid;
+	grid-template-columns: 40% 40%;
+	grid-gap: 10%;
+    height: 84rem; 
+    
+}
+	
+}
