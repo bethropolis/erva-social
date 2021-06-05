@@ -71,7 +71,7 @@ body {
 .e19_19 {
 	width: 280px;
 	height: 240px;
-	background-image: url(images/_component_lottie_https___assets3_lottiefiles_com_packages_lf20_qtcpvvki_json_.png);
+	background-image: url(images/chat.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -86,7 +86,7 @@ body {
 	width: 280px;
 	height: 240px;
 
-	background-image: url(images/_component_lottie_https___assets1_lottiefiles_com_packages_lf20_uaity3_json_.png);
+	background-image: url(images/explore.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -94,7 +94,7 @@ body {
 .e23_3 {
 	width: 280px;
 	height: 240px;
-	background-image: url(images/_component_lottie_https___assets2_lottiefiles_com_packages_lf20_5e7wgehs_json_.png);
+	background-image: url(images/group.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -105,7 +105,7 @@ body {
 .e23_10 {
 	width: 280px;
 	height: 240px;
-	background-image: url(images/_component_lottie_https___assets6_lottiefiles_com_private_files_lf30_srhxnqar_json_.png);
+	background-image: url(images/location.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -113,7 +113,7 @@ body {
 .e23_13 {
 	width: 280px;
 	height: 240px;
-	background-image: url(images/_component_lottie_https___assets10_lottiefiles_com_packages_lf20_ffjg0hfd_json_.png);
+	background-image: url(images/wallpaper.png);  
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -134,7 +134,7 @@ body {
 	width: 53px;
 	height: 53px;
 
-	background-image: url(images/twitter.png);
+	background-image: url(images/twitter.png); 
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -164,7 +164,7 @@ body {
 .e23_31 {
 	width: 280px;
 	height: 240px;
-	background-image: url(images/_component_lottie_https___assets4_lottiefiles_com_packages_lf20_nk7rih3w_json_.png);
+	background-image: url(images/fast.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
